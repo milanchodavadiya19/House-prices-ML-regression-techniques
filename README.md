@@ -96,10 +96,6 @@ Inside 04-modelling/ensembling folder the correlations and performances of the s
 
 The Ames Housing dataset was compiled by Dean De Cock for use in data science education. It's an incredible alternative for data scientists looking for a modernized and expanded version of the often cited Boston Housing dataset. 
 
-## Team
-- [Obaidur Rahaman](https://github.com/obaidur-rahaman)
-- [Marco Di Vivo](https://github.com/divivoma)
-- [Benjamin Melloul]()
-- [Ayush Kumar](https://github.com/ayukumar11)
-- [Robert Jonczy](https://github.com/rjonczy)
-
+## Member
+- [Milan Chodavadiya](https://github.com/milanchodavadiya19)
+- 
